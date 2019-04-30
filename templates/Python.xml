@@ -1,6 +1,14 @@
 <templateSet group="Python">
-  <template name="todo" value="# TODO: KS: $DATE$: " description="todo with initials and date" toReformat="true" toShortenFQNames="true">
-    <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+  <template name="todo" value="# TODO: KS: $DATE$: $TXT$" description="todo with initials and date" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="TXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="fixme" value="# FIXME: KS: $DATE$: $TXT$" description="fixme with initials and date" toReformat="true" toShortenFQNames="true">
+    <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="TXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>

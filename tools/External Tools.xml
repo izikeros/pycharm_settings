@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Flake8" description="Flake8 inspection" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PyInterpreterDirectory$/python" />
+      <option name="PARAMETERS" value="-m flake8 $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Flake8 in src" description="Flake8 inspection" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PyInterpreterDirectory$/python" />
+      <option name="PARAMETERS" value="-m flake8 $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/src" />
+    </exec>
+  </tool>
+</toolSet>

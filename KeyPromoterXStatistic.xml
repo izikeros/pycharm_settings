@@ -33,6 +33,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Flatten Packages">
+        <Item>
+          <IdeaActionID>TodoViewGroupByFlattenPackage</IdeaActionID>
+          <ShortCut>'Ctrl+F'</ShortCut>
+          <Description>Flatten Packages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group By Packages">
+        <Item>
+          <IdeaActionID>TodoViewGroupByShowPackages</IdeaActionID>
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>Group By Packages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Method...">
         <Item>
           <IdeaActionID>ExtractMethod</IdeaActionID>
@@ -62,7 +78,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'classification-baseline-2018-rf'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -94,6 +110,14 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

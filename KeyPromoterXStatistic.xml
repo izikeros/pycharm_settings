@@ -17,12 +17,20 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'pytest in ex7 -s'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'pytest in ex7 -s'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'pytest in ex7'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'pytest in ex7'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -30,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>43</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -137,6 +145,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'pytest in ex7 -s'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'pytest in ex7 -s'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'pytest in ex7'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -185,6 +201,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest in ex7 -s'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest in ex7 -s'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest in ex7'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -214,7 +238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -222,7 +246,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
     </option>

@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="todos" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="todos-extract" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+    </exec>
+  </tool>
 </toolSet>

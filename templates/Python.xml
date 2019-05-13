@@ -13,4 +13,16 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="npd" value="import numpy as np&#10;import pandas as pd" description="import numpy and pandas" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+  <template name="plt" value="import matplotlib as plt" description="import matplotlib as plt" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
 </templateSet>

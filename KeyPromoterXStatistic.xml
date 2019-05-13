@@ -25,14 +25,6 @@
           <Count>43</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'make_extra_dataset'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'make_extra_dataset'</Description>
-          <Count>22</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'pytest in ex7 -s'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -54,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>77</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -102,7 +94,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -134,7 +126,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -143,6 +135,14 @@
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'classification-basel...'">
@@ -166,7 +166,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'make_extra_dataset'</Description>
-          <Count>5</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest in ex7 -s'">
@@ -206,7 +206,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Grid">
@@ -230,7 +230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'make_extra_dataset'</Description>
-          <Count>33</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest in ex7 -s'">
@@ -270,7 +270,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -278,7 +278,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>59</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -303,6 +303,16 @@
           <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
           <Description>Zoom Out</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Debug 'make_extra_dataset'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'make_extra_dataset'</Description>
+          <Count>24</Count>
         </Item>
       </Statistic>
     </option>

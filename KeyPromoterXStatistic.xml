@@ -30,7 +30,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'pytest in ex7 -s'</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'pytest in ex7'">
@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>126</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -174,7 +174,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest in ex7 -s'</Description>
-          <Count>27</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest in ex7'">
@@ -238,7 +238,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'pytest in ex7 -s'</Description>
-          <Count>35</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pytest in ex7'">

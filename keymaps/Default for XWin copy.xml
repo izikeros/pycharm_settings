@@ -16,6 +16,9 @@
   <action id="Tool_External Tools_Flake8 in src">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="Tool_External Tools_todos">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt slash" />
   </action>

@@ -73,6 +73,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Flake8 in src">
+        <Item>
+          <IdeaActionID>Tool_External Tools_Flake8 in src</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Flake8 in src</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Flatten Packages">
         <Item>
           <IdeaActionID>TodoViewGroupByFlattenPackage</IdeaActionID>
@@ -103,6 +111,14 @@
           <ShortCut>'Ctrl+Quote'</ShortCut>
           <Description>Hide Grid</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Home Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
+          <ShortCut>'Ctrl+1'</ShortCut>
+          <Description>Home Directory</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -198,7 +214,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -270,7 +286,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

@@ -9,15 +9,15 @@
   <tool name="Flake8 in src" description="Flake8 inspection" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$PyInterpreterDirectory$/python" />
-      <option name="PARAMETERS" value="-m flake8 src" />
+      <option name="PARAMETERS" value="-m flake8 $ProjectFileDir$/src" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="todos" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="todos-extract" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+      <option name="COMMAND" value="$USER_HOME$/dotfiles/scripts/todoextract.sh" />
+      <option name="PARAMETERS" value="$ProjectFileDir$/src" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>

@@ -57,6 +57,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'pytest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'pytest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'train_model'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test_visuals'">
@@ -337,6 +345,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pytest'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'train_model'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -374,7 +390,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -382,7 +398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>96</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

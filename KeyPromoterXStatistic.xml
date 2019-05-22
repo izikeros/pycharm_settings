@@ -38,7 +38,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'prepare_ml_data'</Description>
-          <Count>20</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'pytest in ex7 -s'">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>153</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -182,7 +182,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>10</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -230,7 +230,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'prepare_ml_data'</Description>
-          <Count>5</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest in ex7 -s'">
@@ -390,7 +390,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>52</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -398,7 +398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>100</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

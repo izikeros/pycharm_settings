@@ -4,10 +4,13 @@
     <property name="created">2019-04-02T11:00:27</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-02T13:54:53</property>
+    <property name="modified">2019-05-23T17:00:07</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <colors>
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
+  </colors>
 </scheme>

@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>186</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -118,6 +118,14 @@
           <IdeaActionID>TodoViewGroupByFlattenPackage</IdeaActionID>
           <ShortCut>'Ctrl+F'</ShortCut>
           <Description>Flatten Packages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Generate...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

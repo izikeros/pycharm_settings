@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>259</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -215,6 +215,14 @@
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New...">
+        <Item>
+          <IdeaActionID>NewElement</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>New...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -502,7 +510,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>109</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

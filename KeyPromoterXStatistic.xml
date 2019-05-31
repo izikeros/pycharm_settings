@@ -425,6 +425,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Split Vertically">
+        <Item>
+          <IdeaActionID>SplitVertically</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+\'</ShortCut>
+          <Description>Split Vertically</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'classification-300'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -550,7 +558,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

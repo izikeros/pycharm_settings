@@ -14,7 +14,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -63,6 +63,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'make_training_datasets'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'pr2file'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'pr2file'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'prepare_ml_data'">
@@ -345,6 +353,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'pr2file'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'pr2file'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'prepare_ml_data'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -489,6 +505,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pr2file'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'pr2file'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'prepare_ml_data'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -566,7 +590,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>132</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -574,7 +598,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>161</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

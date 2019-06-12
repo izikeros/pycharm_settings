@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" second-keystroke="a" />
+  </action>
   <action id="MaintenanceAction" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt w" />

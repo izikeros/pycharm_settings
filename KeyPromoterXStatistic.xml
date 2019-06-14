@@ -273,6 +273,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '005-generate_big_inp...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run '005-generate_big_inp...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'classification'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>

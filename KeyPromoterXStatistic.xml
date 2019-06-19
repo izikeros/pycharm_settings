@@ -33,6 +33,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'calculate_frequencies_per_window'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'calculate_frequencies_per_window'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'classification-300'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -126,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>353</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -206,7 +214,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -278,7 +286,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '005-generate_big_inp...'">
@@ -295,6 +303,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'calculate_frequencies_per_window mini'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'calculate_frequencies_per_window'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'calculate_frequencies_per_window'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'classification'">
@@ -465,6 +481,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'calculate_frequencies_per_window'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'calculate_frequencies_per_window'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'classification-300'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -598,7 +622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>162</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

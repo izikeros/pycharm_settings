@@ -286,7 +286,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -310,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'add_labels_to_csv_file'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'calculate_frequencies_per_window mini'">
@@ -391,6 +391,22 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'make_training_datasets'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'merge_hist_files_int...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'merge_hist_files_int...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'merge_hist_files_into_single_df'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'merge_hist_files_into_single_df'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'prepare_ml_data'">
@@ -502,7 +518,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'add_labels_to_csv_file'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'calculate_frequencies_per_window'">
@@ -559,6 +575,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'make_training_datasets'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'merge_hist_files_into_single_df'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'merge_hist_files_into_single_df'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'prepare_ml_data'">

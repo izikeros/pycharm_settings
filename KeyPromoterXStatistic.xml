@@ -33,6 +33,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'add_labels_to_csv_file'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'add_labels_to_csv_file'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'calculate_frequencies_per_window'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'add_labels_to_csv_file'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'calculate_frequencies_per_window mini'">
@@ -489,6 +497,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'add_labels_to_csv_file'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'add_labels_to_csv_file'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'calculate_frequencies_per_window'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -630,7 +646,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>165</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

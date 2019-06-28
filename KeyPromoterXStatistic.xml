@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'file_cluster'</Description>
-          <Count>4</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'logevents'">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>364</Count>
+          <Count>369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -409,6 +409,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'file_cluster'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'file_cluster'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'logevents'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -566,7 +574,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Grid">
@@ -622,7 +630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'file_cluster'</Description>
-          <Count>4</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'logevents'">
@@ -750,7 +758,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>172</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -766,7 +774,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">

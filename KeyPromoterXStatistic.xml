@@ -105,6 +105,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'logparser'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'logparser'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'make_test_datasets'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -334,7 +342,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -463,6 +471,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'logevents'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'logparser'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'logparser'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'make_extra_dataset'">
@@ -697,6 +713,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'logparser'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'logparser'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'make_extra_dataset'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -814,7 +838,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>204</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

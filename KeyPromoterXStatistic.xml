@@ -89,6 +89,14 @@
           <Count>49</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'correction_features'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'correction_features'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'file_cluster'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>420</Count>
+          <Count>428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -878,7 +886,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>245</Count>
+          <Count>248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

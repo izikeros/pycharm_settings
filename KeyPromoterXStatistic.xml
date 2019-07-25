@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'correction_features'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'file_cluster'">
@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>428</Count>
+          <Count>436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -447,6 +447,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'classification-baseline-2018-rf'</Description>
           <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'correction_features'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'correction_features'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'dask_csv_to_sparse_d...'">
@@ -894,7 +902,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>248</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

@@ -945,6 +945,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="todos">
+        <Item>
+          <IdeaActionID>Tool_External Tools_todos</IdeaActionID>
+          <ShortCut>'Alt+='</ShortCut>
+          <Description>todos</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Debug 'make_extra_dataset'">

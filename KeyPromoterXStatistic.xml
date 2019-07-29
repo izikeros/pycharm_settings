@@ -14,7 +14,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'cluster_events'</Description>
-          <Count>2</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration or Usages">
@@ -23,6 +23,14 @@
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -46,7 +54,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'cluster_events'</Description>
-          <Count>6</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pronto_filter'">
@@ -73,12 +81,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'cluster_events'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'cluster_events'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -86,7 +102,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>

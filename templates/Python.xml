@@ -4,6 +4,7 @@
     <variable name="TXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
+      <option name="SHELL_SCRIPT" value="true" />
     </context>
   </template>
   <template name="fixme" value="# FIXME: KS: $DATE$: $TXT$" description="fixme with initials and date" toReformat="true" toShortenFQNames="true">

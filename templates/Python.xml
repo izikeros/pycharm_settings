@@ -20,7 +20,7 @@
       <option name="Python_Class" value="false" />
     </context>
   </template>
-  <template name="plt" value="import matplotlib as plt" description="import matplotlib as plt" toReformat="false" toShortenFQNames="true">
+  <template name="plt" value="from matplotlib import pyplot as plt" description="import matplotlib as plt" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
       <option name="Python_Class" value="false" />

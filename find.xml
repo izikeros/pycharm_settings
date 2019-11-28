@@ -12,8 +12,8 @@
     <mask>*.pyw</mask>
     <mask>log*.sh</mask>
     <mask>*.sh</mask>
-    <mask>*.py</mask>
     <mask>*.yml</mask>
+    <mask>*.py</mask>
     <mask>*.ipynb</mask>
   </component>
 </application>

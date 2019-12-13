@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="79,100,120" />
   <Python>
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />

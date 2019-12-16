@@ -43,4 +43,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="lg" value="import logging&#10;logger = logging.getLogger(__name__)" description="logging" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>

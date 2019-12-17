@@ -38,7 +38,7 @@
       <option name="Python_Class" value="false" />
     </context>
   </template>
-  <template name="arg" value="parser = argparse.ArgumentParser(description='Convert event csv file to sparse numpy array.')&#10;parser.add_argument('-i', '--input-file', help=&quot;Input file&quot;)&#10;args = parser.parse_args()&#10;start(args.input_file)" description="argparse snippet" toReformat="false" toShortenFQNames="true">
+  <template name="arg" value="parser = argparse.ArgumentParser(description=&quot;Purpose of the script&quot;)&#10;#positional arguments&#10;parser.add_argument('events', help=&quot;help1&quot;)&#10;&#10;# named parameters&#10;parser.add_argument('-e', &quot;--end&quot;, help=&quot;help2&quot;, type=int, default=100)&#10;&#10;args = parser.parse_args()&#10;start(args.events)" description="argparse snippet" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>

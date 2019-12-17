@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateServicesToolWindow" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" second-keystroke="a" />
   </action>

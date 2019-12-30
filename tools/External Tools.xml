@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="Flake8" description="Flake8 inspection" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Flake8 current file" description="Flake8 inspection in current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$PyInterpreterDirectory$/python" />
       <option name="PARAMETERS" value="-m flake8 $FilePath$" />
@@ -17,6 +17,13 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/dotfiles/scripts/todoextract.sh" />
       <option name="PARAMETERS" value="$ProjectFileDir$/src" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="mypy current file" description="mypy inspection current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PyInterpreterDirectory$/python" />
+      <option name="PARAMETERS" value="-m mypy $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

@@ -11,7 +11,7 @@
     <mask>*.sh</mask>
     <mask>*.yml</mask>
     <mask>`</mask>
-    <mask>*.ipynb</mask>
     <mask>*.py</mask>
+    <mask>*.ipynb</mask>
   </component>
 </application>

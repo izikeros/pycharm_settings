@@ -28,6 +28,9 @@
   <action id="Tool_External Tools_mypy current file">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="Tool_External Tools_pyment">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="Tool_External Tools_todos">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>

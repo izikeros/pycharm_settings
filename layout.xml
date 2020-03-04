@@ -129,6 +129,173 @@
             </array>
           </option>
         </Layout>
+        <Layout>
+          <option name="editorPlacement" value="1" />
+          <option name="name" value="main_vertical_plus_left" />
+          <option name="toolWindows">
+            <array>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Favorites" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Structure" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Project" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Find" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Run" />
+                <option name="type" value="DOCKED" />
+                <option name="visible" value="true" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle>
+                    <option name="x" value="-1" />
+                    <option name="y" value="25" />
+                    <option name="width" value="1922" />
+                    <option name="height" value="1176" />
+                  </Rectangle>
+                </option>
+                <option name="id" value="Debug" />
+                <option name="type" value="WINDOWED" />
+                <option name="visible" value="true" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="TODO" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Services" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Database Changes" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Version Control" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Internal Method Tracing" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Terminal" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Python Console" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="MAGist" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Event Log" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Database" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="SciView" />
+                <option name="type" value="WINDOWED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Key Promoter X" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="make" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+            </array>
+          </option>
+        </Layout>
       </array>
     </option>
   </component>

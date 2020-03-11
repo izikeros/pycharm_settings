@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.*py*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,9 +13,9 @@
     <mask>log*.sh</mask>
     <mask>*.sh</mask>
     <mask>`</mask>
-    <mask>*.*py*</mask>
     <mask>*.ipynb</mask>
     <mask>*.py</mask>
     <mask>*.yml</mask>
+    <mask>*.*py*</mask>
   </component>
 </application>

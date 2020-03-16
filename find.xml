@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,7 +17,7 @@
     <mask>`</mask>
     <mask>*.ipynb</mask>
     <mask>*.*py*</mask>
-    <mask>*.py</mask>
     <mask>*.yml</mask>
+    <mask>*.py</mask>
   </component>
 </application>

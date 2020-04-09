@@ -2,7 +2,6 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>

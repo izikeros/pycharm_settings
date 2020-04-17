@@ -38,7 +38,7 @@
       <option name="Python_Class" value="false" />
     </context>
   </template>
-  <template name="arg" value="parser = argparse.ArgumentParser(description=&quot;Purpose of the script&quot;)&#10;#positional arguments&#10;parser.add_argument('events', help=&quot;help1&quot;)&#10;&#10;# named parameters&#10;parser.add_argument('-e', &quot;--end&quot;, help=&quot;help2&quot;, type=int, default=100)&#10;&#10;args = parser.parse_args()&#10;start(args.events)" description="argparse snippet" toReformat="false" toShortenFQNames="true">
+  <template name="arg" value="parser = argparse.ArgumentParser(description=&quot;Purpose of the script&quot;)&#10;#positional arguments&#10;parser.add_argument('events', help=&quot;help1&quot;)&#10;&#10;# named parameters&#10;parser.add_argument('-e', &quot;--end&quot;, help=&quot;help2&quot;, type=int, default=100)&#10;&#10;# switch&#10;parser.add_argument(&quot;--quiet&quot;, default=False, help=&quot;quiet mode&quot;)&#10;args = parser.parse_args()&#10;start(args.events)" description="argparse snippet" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
@@ -46,6 +46,12 @@
   <template name="lg" value="import logging&#10;logger = logging.getLogger(__name__)" description="logging" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="py" value="#!/usr/bin/env python3" description="python3 shebang" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
     </context>
   </template>
 </templateSet>

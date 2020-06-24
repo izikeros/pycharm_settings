@@ -3,11 +3,6 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
       <debugger id="python">
         <configuration>
           <option name="valuesPolicy" value="ON_DEMAND" />

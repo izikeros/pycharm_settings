@@ -17,6 +17,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
   <action id="Tool_External Tools_Flake8">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -32,11 +35,14 @@
   <action id="Tool_External Tools_pyment">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="Tool_External Tools_pyment current file">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
+  <action id="Tool_External Tools_pyment google current file">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
   <action id="Tool_External Tools_todos">
     <keyboard-shortcut first-keystroke="alt equals" />
-  </action>
-  <action id="Tool_External Tools_yapf current file">
-    <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt slash" />

@@ -937,8 +937,9 @@
         <entry key="*.txt">
           <value>
             <plugin>
-              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
-              <option name="myPluginName" value="Requirements" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>

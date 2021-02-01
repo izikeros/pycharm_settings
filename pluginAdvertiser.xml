@@ -1279,6 +1279,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="makefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="name.kropp.intellij.makefile" />
+              <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="requirements.txt">
           <value>
             <plugin>

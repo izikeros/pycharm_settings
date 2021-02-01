@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
+      <mapping pattern=".pypirc" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="hist" type="PLAIN_TEXT" />

@@ -59,9 +59,8 @@
         <entry key="*.cfg">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
-              <option name="myPluginName" value="Ini" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
             </plugin>
           </value>
         </entry>
@@ -529,6 +528,38 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nim">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nimble">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nimcfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nims">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
             </plugin>
           </value>
         </entry>

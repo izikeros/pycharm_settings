@@ -1377,6 +1377,11 @@
                       <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
+                  <entry key="NimRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Nim Application" pluginName="Nim" pluginId="com.jetbrains.nim" />
+                    </value>
+                  </entry>
                   <entry key="PyBehaveRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" />

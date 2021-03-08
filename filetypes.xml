@@ -5,6 +5,7 @@
       <mapping pattern="fid_classification.py" type="AUTO_DETECTED" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern=".pypirc" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />

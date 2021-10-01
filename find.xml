@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="req*" />
+    <option name="FILE_MASK" value="*.*py*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +16,7 @@
     <mask>*.sh</mask>
     <mask>*.py</mask>
     <mask>*.ipynb</mask>
-    <mask>*.*py*</mask>
     <mask>req*</mask>
+    <mask>*.*py*</mask>
   </component>
 </application>

@@ -10,9 +10,17 @@
           <option name="url" value="https://github.com/slgobinath/SafeEyes" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://eysbp.visualstudio.com/GI%20-%20Document%20Intelligence%20Platform/_git/il-sentiment-analysis" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://eysbp.visualstudio.com" />
+          <option name="userName" value="krystian.safjan" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/proj/ext" />
+    <option name="cloneParentDir" value="$USER_HOME$/proj/eyproj" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

@@ -1,0 +1,5 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+</keymap>

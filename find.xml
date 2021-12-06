@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'coin_commander'" />
-    <option name="defaultScopeName" value="Project 'coin_commander'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'coin_commander'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>log*.sh</mask>
     <mask>`</mask>
     <mask>*.yml</mask>

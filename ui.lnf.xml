@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

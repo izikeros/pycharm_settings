@@ -16,6 +16,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".binance_api_key" type="PLAIN_TEXT" />
       <mapping pattern=".pypirc" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="hist" type="PLAIN_TEXT" />
       <mapping pattern=".pre-commit-config.yaml.bak" type="YAML" />

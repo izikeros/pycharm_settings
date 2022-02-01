@@ -9,7 +9,7 @@
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
-        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="NOT_PASSED" />
@@ -37,7 +37,7 @@
         <entry key="python.run.configuration" value="NOT_PASSED" />
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactoring menu" value="NOT_PASSED" />
-        <entry key="refactoring.in.place" value="NOT_PASSED" />
+        <entry key="refactoring.in.place" value="PASSED" />
         <entry key="refactoring.quick.fix" value="NOT_PASSED" />
         <entry key="rename" value="NOT_PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />

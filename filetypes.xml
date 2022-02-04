@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="fid_classification.py" type="AUTO_DETECTED" />
       <mapping pattern="MLproject" type="AUTO_DETECTED" />
+      <mapping pattern="page_splitter_models" type="AUTO_DETECTED" />
       <mapping pattern="test_engine_azure" type="AUTO_DETECTED" />
       <mapping pattern="bigram_tags" type="AUTO_DETECTED" />
       <mapping pattern=".binance_api_secret" type="PLAIN_TEXT" />

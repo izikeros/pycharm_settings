@@ -9,4 +9,19 @@
   <action id="Tool_External Tools_Black">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="Tool_External Tools_Sublime Text">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Tool_External Tools_Typora">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Tool_External Tools_todos">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Tool_Linters_Black">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="Tool_Linters_Flake8 current file">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
 </keymap>

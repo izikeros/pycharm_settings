@@ -22,9 +22,9 @@
   </tool>
   <tool name="Typora" description="Open markdown in Typora" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/Applications/Typora.app/Contents/MacOS/Typora" />
+      <option name="COMMAND" value="/Applications/Typora.app" />
       <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
     </exec>
   </tool>
   <tool name="Sublime Text" description="Open file in SublimeText" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">

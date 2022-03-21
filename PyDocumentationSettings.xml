@@ -1,0 +1,6 @@
+<application>
+  <component name="AppPyDocumentationSettings">
+    <option name="format" value="GOOGLE" />
+    <option name="myDocStringFormat" value="Google" />
+  </component>
+</application>

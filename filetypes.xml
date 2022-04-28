@@ -8,32 +8,17 @@
       <mapping pattern="TODO" type="AUTO_DETECTED" />
       <mapping pattern="MLproject" type="AUTO_DETECTED" />
       <mapping pattern="page_splitter_models" type="AUTO_DETECTED" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".binance_api_key" type="PLAIN_TEXT" />
-      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
       <mapping pattern=".binance_api_secret" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".bandit" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".pypirc" type="PLAIN_TEXT" />
-      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="hist" type="PLAIN_TEXT" />

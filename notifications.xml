@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
+    <notification groupId="Python Scientific View Advertiser" displayType="NONE" shouldLog="false" />
   </component>
 </application>

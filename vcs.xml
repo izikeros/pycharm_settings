@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/izikeros/izikeros" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/danielfleischer/git-commits-lines-graph" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/proj/ext" />

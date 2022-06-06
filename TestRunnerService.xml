@@ -1,0 +1,5 @@
+<application>
+  <component name="AppTestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</application>

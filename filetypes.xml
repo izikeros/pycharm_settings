@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.ipynb_checkpoints;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="ascendex_old" type="AUTO_DETECTED" />
       <mapping pattern="test_engine_azure" type="AUTO_DETECTED" />
       <mapping pattern="bigram_tags" type="AUTO_DETECTED" />
       <mapping pattern="fid_classification.py" type="AUTO_DETECTED" />

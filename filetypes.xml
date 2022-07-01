@@ -2,23 +2,23 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.ipynb_checkpoints;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="ascendex_old" type="AUTO_DETECTED" />
-      <mapping pattern="test_engine_azure" type="AUTO_DETECTED" />
-      <mapping pattern="bigram_tags" type="AUTO_DETECTED" />
       <mapping pattern="fid_classification.py" type="AUTO_DETECTED" />
+      <mapping pattern="ascendex_old" type="AUTO_DETECTED" />
       <mapping pattern="TODO" type="AUTO_DETECTED" />
       <mapping pattern="MLproject" type="AUTO_DETECTED" />
       <mapping pattern="page_splitter_models" type="AUTO_DETECTED" />
+      <mapping pattern="test_engine_azure" type="AUTO_DETECTED" />
+      <mapping pattern="bigram_tags" type="AUTO_DETECTED" />
+      <mapping pattern=".binance_api_secret" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitgnore" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".binance_api_key" type="PLAIN_TEXT" />
-      <mapping pattern=".binance_api_secret" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".bandit" type="PLAIN_TEXT" />
+      <mapping pattern=".binance_api_key" type="PLAIN_TEXT" />
       <mapping pattern=".pypirc" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />

@@ -18,6 +18,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".binance_api_key" type="PLAIN_TEXT" />
       <mapping pattern=".binance_api_secret" type="PLAIN_TEXT" />
+      <mapping pattern=".git-blame-ignore-refs" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".bandit" type="PLAIN_TEXT" />
       <mapping pattern=".pypirc" type="PLAIN_TEXT" />

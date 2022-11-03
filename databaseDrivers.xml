@@ -20,5 +20,15 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
       </library>
     </driver>
+    <driver id="32e66e08-1c9e-48e9-8959-09e1a8135279" name="db driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <remarks>pomimo</remarks>
+      <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
+      <url-template name="In-memory" template="jdbc:sqlite::memory:" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.39.2" />
+      <property name="enable_load_extension" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
+      </library>
+    </driver>
   </component>
 </application>

@@ -1,7 +1,5 @@
 <application>
   <component name="SourceryConfigService">
-    <option name="cloneDetectionEnabled" value="true" />
-    <option name="fullProjectRefactoringEnabled" value="true" />
     <option name="pluginVersion" value="0.13.0" />
     <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/sourcery_binaries/install/mac/sourcery" />
     <option name="sourceryProductName" value="Free" />

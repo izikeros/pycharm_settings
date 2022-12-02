@@ -59,4 +59,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="pp" value="from pprint import pprint" description="import pprint" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>

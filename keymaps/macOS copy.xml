@@ -24,4 +24,7 @@
   <action id="Tool_Linters_Flake8 current file">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Tool_Linters_mypy current file">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
 </keymap>

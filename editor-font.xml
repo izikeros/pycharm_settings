@@ -5,5 +5,6 @@
     <option name="FONT_SIZE_2D" value="20.0" />
     <option name="FONT_FAMILY" value="Source Code Pro for Powerline" />
     <option name="LINE_SPACING" value="1.1" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
 </application>

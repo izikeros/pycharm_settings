@@ -1,0 +1,57 @@
+<application>
+  <component name="ui-state">
+    <option name="templatesTreeState">
+      <TreeState>
+        <myExpandedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="General" type="cbb8eebc:String" user="General" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="Suspicious" type="cbb8eebc:String" user="Suspicious" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="Properties files" type="cbb8eebc:String" user="Properties files" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="SQL" type="cbb8eebc:String" user="SQL" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="SQL" type="cbb8eebc:String" user="SQL" />
+            <item name="Common" type="cbb8eebc:String" user="Common" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="SQL" type="cbb8eebc:String" user="SQL" />
+            <item name="Common" type="cbb8eebc:String" user="Common" />
+            <item name="Contexts" type="cbb8eebc:String" user="Contexts" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="XML/HTML" type="cbb8eebc:String" user="XML/HTML" />
+          </array>
+        </myExpandedPaths>
+        <mySelectedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="General" type="cbb8eebc:String" user="General" />
+            <item name="com.intellij.structuralsearch.plugin.ui.SearchConfiguration@834e73c2" type="3c4764e4:SearchConfiguration" />
+          </array>
+        </mySelectedPaths>
+      </TreeState>
+    </option>
+    <option name="scopeType" value="PROJECT" />
+    <option name="scopeDescriptor" value="" />
+  </component>
+</application>

@@ -23,6 +23,7 @@
   </action>
   <action id="Tool_Linters_Flake8 current file">
     <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="Tool_Linters_mypy current file">
     <keyboard-shortcut first-keystroke="alt 9" />

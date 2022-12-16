@@ -59,7 +59,12 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="pp" value="from pprint import pprint" description="import pprint" toReformat="false" toShortenFQNames="true">
+  <template name="pp" value="from pprint import pprint" description="import pprint" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dt" value="import datetime as dt" description="import datetime as dt" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>

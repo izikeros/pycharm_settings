@@ -3,6 +3,6 @@
     <option name="pluginVersion" value="1.0.3" />
     <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/sourcery_binaries/install/mac/sourcery" />
     <option name="sourceryProductName" value="Free" />
-    <option name="sourceryVersion" value="1.0.2" />
+    <option name="sourceryVersion" value="1.0.3" />
   </component>
 </application>

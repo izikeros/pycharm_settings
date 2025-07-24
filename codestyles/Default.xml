@@ -11,5 +11,6 @@
     <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="0" />
     <option name="METHOD_PARAMETERS_WRAP" value="0" />
+    <option name="SOFT_MARGINS" value="79,88,120" />
   </codeStyleSettings>
 </code_scheme>

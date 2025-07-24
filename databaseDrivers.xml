@@ -8,7 +8,7 @@
     </driver>
     <driver id="sqlite.xerial">
       <remarks>pomimo</remarks>
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.45.1" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
       </library>

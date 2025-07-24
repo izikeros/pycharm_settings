@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Github.View.Pull.Request">
+        <abbreviation name="gpr" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

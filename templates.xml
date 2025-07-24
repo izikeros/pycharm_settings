@@ -122,6 +122,118 @@
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_subgraph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_loop" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_alt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_opt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_par" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_par_over" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_rect" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_critical" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_break" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_box" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_section" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_requirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_functionalRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_interfaceRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_performanceRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_physicalRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_designConstraint" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_element" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_id" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_tag" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_type" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_msg" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_c4_simple" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_c4_boundary" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_note" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_namespace" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_codeFence" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_block" />
+        </TemplateKey>
       </list>
     </option>
   </component>

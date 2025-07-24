@@ -1,0 +1,9 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="Grazie.RuleEngine.En.Style.SENTENCE_CAPITALIZATION" />
+      </set>
+    </option>
+  </component>
+</application>

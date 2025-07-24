@@ -2,8 +2,19 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
+  <action id="ActivateBigDataToolWindowToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl meta b" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="Generate" />
+  <action id="InsertLiveTemplate" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="RecentLocations" />
   <action id="Tool_External Tools_Black">
@@ -11,6 +22,9 @@
   </action>
   <action id="Tool_External Tools_Sublime Text">
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Tool_External Tools_SublimeText">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
   <action id="Tool_External Tools_Typora">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -25,7 +39,9 @@
     <keyboard-shortcut first-keystroke="alt f" />
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
-  <action id="Tool_Linters_mypy current file">
+  <action id="Tool_Linters_ruff">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
 </keymap>

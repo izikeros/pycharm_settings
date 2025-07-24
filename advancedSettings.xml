@@ -2,7 +2,8 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
-        <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+        <entry key="ide.ui.native.file.chooser" value="true" />
+        <entry key="se.endpoints.search" value="true" />
       </map>
     </option>
   </component>

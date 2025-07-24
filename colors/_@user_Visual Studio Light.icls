@@ -1,0 +1,16 @@
+<scheme name="_@user_Visual Studio Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2024.3.4.0.0</property>
+    <property name="originalScheme">Visual Studio Light</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">color.scheme.Visual Studio Light</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrainsMono Nerd Font Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+</scheme>

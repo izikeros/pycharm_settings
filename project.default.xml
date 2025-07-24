@@ -1,10 +1,21 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="356" y="172" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1738296000437">
+          <screen x="0" y="38" width="1512" height="944" />
+        </state>
+        <state x="356" y="172" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.38.1512.944" timestamp="1738296000437" />
+        <state x="265" y="116" key="SettingsEditor" timestamp="1738570997391">
+          <screen x="0" y="38" width="1512" height="944" />
+        </state>
+        <state x="265" y="116" key="SettingsEditor/0.38.1512.944" timestamp="1738570997391" />
       </component>
     </defaultProject>
   </component>

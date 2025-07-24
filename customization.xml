@@ -1,0 +1,8 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ShowExecutionPoint" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Debug Header Toolbar" />
+    </group>
+  </component>
+</application>

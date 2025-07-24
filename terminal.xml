@@ -1,5 +1,3 @@
 <application>
-  <component name="TerminalOptionsProvider">
-    <option name="myTabName" value="Local" />
-  </component>
+  <component name="ReworkedTerminalUsage"><![CDATA[{}]]></component>
 </application>

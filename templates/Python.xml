@@ -69,4 +69,14 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="loguru" value="import sys&#10;from loguru import logger&#10;&#10;&#10;logger.remove()&#10;logger.add(&#10;    sys.stdout,&#10;    # format=&quot;&lt;green&gt;{time:HH:mm:ss}&lt;/green&gt; &lt;level&gt;{level}&lt;/level&gt; {message}&quot;,&#10;    format=&quot;&lt;level&gt;{level}&lt;/level&gt; {message}&quot;,&#10;    colorize=True,&#10;    level=&quot;INFO&quot;,&#10;)" description="add loguru console logging" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="timestamp" value="# timestamp get current time and store in format yymmdd_hhmm&#10;import datetime as dt&#10;timestamp = dt.datetime.now().strftime(&quot;%y%m%d_%H%M&quot;)" description="create timestamp variable" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>

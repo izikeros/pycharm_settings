@@ -8,6 +8,11 @@
           <option name="valuesPolicy" value="ON_DEMAND" />
         </configuration>
       </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>

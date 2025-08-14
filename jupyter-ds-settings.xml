@@ -1,0 +1,5 @@
+<application>
+  <component name="JupyterDSSettings">
+    <option name="autoShowVariablesToolWindowOnExecution" value="false" />
+  </component>
+</application>

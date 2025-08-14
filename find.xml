@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.glade" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.pxi</mask>
     <mask>*.pxd</mask>
     <mask>*.pyx</mask>
@@ -16,7 +16,7 @@
     <mask>*.pyw</mask>
     <mask>*.html</mask>
     <mask>*.htm</mask>
-    <mask>*.py</mask>
     <mask>*.glade</mask>
+    <mask>*.py</mask>
   </component>
 </application>

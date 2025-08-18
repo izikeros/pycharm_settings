@@ -11,7 +11,6 @@
             <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
             <root url="file:///Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/projects/eyproj/atlas_qa/.venv/lib/python3.11/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/projects/eyproj/atlas_qa" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.2/python_stubs/-1289685291" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />

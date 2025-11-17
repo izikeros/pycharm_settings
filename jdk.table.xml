@@ -3,13 +3,13 @@
     <jdk version="2">
       <name value="Python 3.11 (atlas_qa)" />
       <type value="Python SDK" />
-      <version value="Python 3.11.13" />
+      <version value="Python 3.11.14" />
       <homePath value="$USER_HOME$/projects/eyproj/atlas_qa/.venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///opt/homebrew/Cellar/python@3.11/3.11.13/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
-            <root url="file:///opt/homebrew/Cellar/python@3.11/3.11.13/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.11/3.11.14_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/projects/eyproj/atlas_qa/.venv/lib/python3.11/site-packages" type="simple" />
             <root url="file:///opt/homebrew/opt/python-tk@3.11/libexec" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.2/python_stubs/-1289685291" type="simple" />
@@ -2090,15 +2090,37 @@
     <jdk version="2">
       <name value="Python 3.11 virtualenv at ~/projects/eyproj/atlas_etl/.venv" />
       <type value="Python SDK" />
-      <version value="Python 3.12.7" />
+      <version value="Python 3.10.19" />
       <homePath value="$USER_HOME$/projects/eyproj/atlas_etl/.venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.10/3.10.19_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.10/3.10.19_1/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/projects/eyproj/atlas_etl/.venv/lib/python3.10/site-packages" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.2/python_stubs/1516463384" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pytz" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/toml" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tqdm" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/regex" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/bleach" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/docopt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pillow" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/html5lib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/defusedxml" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jsonschema" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -3396,13 +3418,13 @@
     <jdk version="2">
       <name value="Python 3.11 virtualenv at ~/projects/eyproj/atlas_lab/monitoring/.venv" />
       <type value="Python SDK" />
-      <version value="Python 3.12.11" />
+      <version value="Python 3.12.12" />
       <homePath value="$USER_HOME$/projects/eyproj/atlas_lab/monitoring/.venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12" type="simple" />
-            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.11/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.12/3.12.12/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/projects/eyproj/atlas_lab/monitoring/.venv/lib/python3.12/site-packages" type="simple" />
             <root url="file:///opt/homebrew/opt/python-tk@3.12/libexec" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.2/python_stubs/1153176091" type="simple" />
@@ -3416,8 +3438,6 @@
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pexpect" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/seaborn" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/docutils" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/networkx" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/openpyxl" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />

@@ -3,14 +3,14 @@
     <jdk version="2">
       <name value="Python 3.11 (atlas_qa)" />
       <type value="Python SDK" />
-      <version value="Python 3.13.5" />
+      <version value="Python 3.9.6" />
       <homePath value="$USER_HOME$/projects/eyproj/atlas_qa/.venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13" type="simple" />
-            <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/projects/eyproj/atlas_qa/.venv/lib/python3.13/site-packages" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/projects/eyproj/atlas_qa/.venv/lib/python3.9/site-packages" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.2/python_stubs/-1289685291" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
@@ -3184,7 +3184,6 @@
             <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.9_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
             <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.9_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/projects/ai/count_tokens/.venv/lib/python3.13/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/projects/ai/count_tokens" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.2/python_stubs/-639843866" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/regex" type="simple" />

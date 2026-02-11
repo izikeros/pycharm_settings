@@ -3,6 +3,8 @@
     <option name="userDisabledRules">
       <set>
         <option value="Grazie.RuleEngine.En.Style.SENTENCE_CAPITALIZATION" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
       </set>
     </option>
   </component>

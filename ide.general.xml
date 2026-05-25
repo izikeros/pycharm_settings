@@ -11,13 +11,9 @@
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="aitoolkit.toolWindow.dontShowAgain" value="true" source="SYSTEM" />
-    <entry key="jetbrains.security.package-checker.enablePipEnvTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enablePoetryTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enableUvTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.enableVenvTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="jetbrains.security.package-checker.depthLimitOfTransitiveDependencies" value="3" source="MANAGER" />
     <entry key="llm.chat.agent.codex.install.codex.version" value="0.128.0" source="MANAGER" />
     <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.41" source="MANAGER" />
+    <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
